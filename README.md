@@ -58,22 +58,25 @@ I enjoy learning new technologies and building practical projects that solve rea
 
 ### 🔹 IRIS – Intelligent Research & Information System
 
-**AI-powered research assistant for academic literature analysis**
+**AI-Powered Research Assistant | Currently in Development 🚧**
 
-IRIS is designed to help researchers discover relevant research papers, analyze academic literature, generate summaries, identify research gaps, and organize research findings.
+I am currently working on **IRIS (Intelligent Research & Information System)**, an AI-powered research assistant designed to simplify academic research and literature analysis.
+
+The system aims to help researchers **discover relevant research papers, analyze literature, generate summaries, identify research gaps, and organize research findings** using AI and semantic search techniques.
 
 **Technologies:**
-Python • FastAPI • React • AI/LLM • Semantic Search • Embeddings • PDF Processing
+Python • FastAPI • React.js • AI/LLM • Semantic Search • Embeddings • PDF Processing
 
-**Key Features:**
+**Current Development:**
 
-* Research paper discovery
-* PDF and text processing
-* Semantic search
-* Literature summarization
-* Research-gap identification
-* Citation-aware analysis
-* Structured research report generation
+* 🔍 Implementing research paper discovery and retrieval
+* 📄 Working on PDF and research-text processing
+* 🧠 Integrating semantic search and AI-based analysis
+* 📊 Developing research summary and research-gap identification features
+* 🔗 Working on citation-aware research analysis
+* 🖥️ Developing and improving the React-based frontend
+
+**Project Status:** 🟡 **Currently in Development**
 
 ---
 
